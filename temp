@@ -1,3 +1,4 @@
+#weather prediction
 def weather_prediction():
     temperature = int(input("Enter temperature:"))
     windspace = int(input("Enter windspace:"))
