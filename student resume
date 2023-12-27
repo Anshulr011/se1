@@ -1,0 +1,22 @@
+<html>
+<body>
+<head>
+<hr><h1><title>STUDENT RESUME</title></hr></h1>
+</head>
+<body>
+<h2>Anshul Reddy</h2>
+<p>Email:athodupu@gitam.in</p>
+<p>phone:9999999999</p>
+<hr><h2>Education</h2></hr>
+<ul>
+<li>Bachelor of Technology in CSE,Gitam Univerity</li>
+</ul>
+<hr><h2>skills</h2></hr>
+<ul>
+<li>Graphic Design</li>
+<li>Videography</li>
+<li>Programming</li>
+</ul>
+<hr></hr>
+</body>
+</html>
